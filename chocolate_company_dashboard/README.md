@@ -36,7 +36,6 @@ This repository contains a Power BI dashboard designed to provide insights into 
 - Clone the repository and open the Power BI file to explore the dashboard.
 - The dashboard includes interactive filters and visualizations, making it easy to drill down into specific sales data by geography, team, or individual salesperson.
 
-## Screenshots
 ### Page 1
 ![Sales Dashboard Page 1](https://github.com/pirsarandib/Power-BI/blob/main/chocolate_company_dashboard/page%201.jpg)
 ### Page 2
